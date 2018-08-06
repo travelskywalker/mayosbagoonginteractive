@@ -58,7 +58,7 @@ var HomePage = /** @class */ (function () {
     }
     HomePage = __decorate([
         Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["m" /* Component */])({
-            selector: 'page-home',template:/*ion-inline-start:"/Applications/XAMPP/xamppfiles/htdocs/mayosbagoong/mayosbagoonginteractive/src/pages/home/home.html"*/'<ion-content>\n  <ion-row>\n    <ion-col text-center padding>\n      <ion-img height="120" width="120" src="/assets/imgs/logo.png"></ion-img>\n    </ion-col>\n  </ion-row>\n  <ion-row>\n    <ion-col class="teaser-text" padding text-center>Stay tuned!<br>We are cooking something great.</ion-col>\n  </ion-row>\n</ion-content>\n'/*ion-inline-end:"/Applications/XAMPP/xamppfiles/htdocs/mayosbagoong/mayosbagoonginteractive/src/pages/home/home.html"*/
+            selector: 'page-home',template:/*ion-inline-start:"/Applications/XAMPP/xamppfiles/htdocs/mayosbagoong/mayosbagoonginteractive/src/pages/home/home.html"*/'<ion-content>\n  <ion-row>\n    <ion-col text-center padding>\n      <ion-img height="120" width="120" src="/assets/imgs/logo.png"></ion-img>\n    </ion-col>\n  </ion-row>\n  <ion-row>\n    <ion-col class="teaser-text" padding text-center>Stay tuned!<br>We are cooking something great.</ion-col>\n  </ion-row>\n  <ion-row class="footer"><a href="http://www.facebook.com/mayosbagoong"><img src="/assets/imgs/fblike.png"></a></ion-row>\n</ion-content>\n'/*ion-inline-end:"/Applications/XAMPP/xamppfiles/htdocs/mayosbagoong/mayosbagoonginteractive/src/pages/home/home.html"*/
         }),
         __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["d" /* NavController */]])
     ], HomePage);

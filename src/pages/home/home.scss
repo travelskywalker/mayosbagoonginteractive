@@ -15,4 +15,18 @@ page-home {
     ion-img{
         background: none;
     }
+
+    .footer{
+            position: absolute;
+            bottom: 0;
+            width: 100%;
+           
+        
+        & a{
+            margin: 0 auto;
+            img{
+                width: 25vw;
+            }
+        }
+    }
 }

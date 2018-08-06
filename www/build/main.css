@@ -25695,3 +25695,17 @@ page-home .teaser-text {
 page-home ion-img {
   background: none;
 }
+
+page-home .footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+
+page-home .footer a {
+  margin: 0 auto;
+}
+
+page-home .footer a img {
+  width: 25vw;
+}
