@@ -25704,8 +25704,12 @@ page-home .footer {
 
 page-home .footer a {
   margin: 0 auto;
+  color: #fff;
+  font-size: 10px;
+  text-decoration: none;
 }
 
 page-home .footer a img {
   width: 25vw;
+  vertical-align: middle;
 }
